@@ -448,10 +448,10 @@
                     "architecture": "samd",
                     "version": "1.2.9",
                     "category": "Adlink",
-                    "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.2.9.tar.bz2",
-                    "archiveFileName": "adafruit-samd-1.2.9.tar.bz2",
+                    "url": "https://github.com/veeraadlink/OT2IT/raw/main/adlink-ot2it-1.0.0.zip",
+                    "archiveFileName": "adlink-ot2it-1.0.0.zip",
                     "checksum": "SHA-256:28f6277176443679a019f6da716dd7df2d5190d6504e464805f871348645b83c",
-                    "size": "10472970",
+                    "size": "7032832",
                     "help": {
                         "online": "https://www.ipi.wiki/"
                     },
